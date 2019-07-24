@@ -33,5 +33,6 @@ Please feel free to contact me on the Email ID: unnivarun99@gmail.com for any qu
 ## Credits
 I thank Mrs Akila Surendran for total support on the development of this project and & Mr Amith G Nair for the developing this project with me providing me all the technical advices and making the 3D printed case for enclosing the device.
 ## References
-https://github.com/AkilaSurendran/Centre-for-Assistive-Technology-and-Innovation-CATI-NISH-Trivandrum
 https://www.instructables.com/id/Head-Mouse-With-MPU6050-and-Arduino-Micro/
+http://fab.academany.org/2018/labs/fablabtrivandrum/students/akila-surendran/Final%20project/finalproj.html
+https://github.com/AkilaSurendran/Centre-for-Assistive-Technology-and-Innovation-CATI-NISH-Trivandrum
