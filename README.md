@@ -1,6 +1,11 @@
 # Head-Mouse-NISH
 This project was created for assisting quadriplegic people to to use computers and AAC devices easily, as a part of my internship period at NISH.
 
+## Gallery
+![](images/IMG_20190726_102934.jpg)
+![](images/IMG_20190726_103046.jpg)
+![](images/MVIMG_20190726_103128.jpg)
+
 ## Problem statement
 During my internship period at NISH (National Institute of Speech & Hearing) I had the chance to observe different conditions that were treated there. I noticed that people who were paralysed neck below had a huge problem communicating using Augmentative and alternative communication (AAC) techniques. When discussing this idea with the Centre for Assistive Technology & Innovation, they suggested on further developing an ongoing research there, the head controlled mouse. This could help the suffering people a lot in their day to day life and also in their therapy sessions.
 
