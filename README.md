@@ -6,6 +6,13 @@ This project was created for assisting quadriplegic people to to use computers a
 ![](images/IMG_20190726_103046.jpg)
 ![](images/MVIMG_20190726_103128.jpg)
 
+## Acknowledgement
+The main idea for this project was borrrowed from the instructables page of Gabry295. The code by him was analysed and refined in order to make  perfect working head controlled mouse.
+Mrs Akila Surendran was enthusiastic in completing this project and using it in different ways for the disabled people to work with.
+Mr Amith G Nair was the backbone to this project sharing his ideas and creating the head mouse in the most user friendly way possible by creating 3D printed cases and basic layout diagrams of this whole project.
+The entire NISH faculty whose sessions I observed gave me the idea for the refinements. They were more than happy to share any knowledge they had to help for the completion of this project.
+Please visit this website to learn about this amazing institution in Kerala, India and how they chage the lives of the disabled people: http://nish.ac.in
+
 ## Problem statement
 During my internship period at NISH (National Institute of Speech & Hearing) I had the chance to observe different conditions that were treated there. I noticed that people who were paralysed neck below had a huge problem communicating using Augmentative and alternative communication (AAC) techniques. When discussing this idea with the Centre for Assistive Technology & Innovation, they suggested on further developing an ongoing research there, the head controlled mouse. This could help the suffering people a lot in their day to day life and also in their therapy sessions.
 
