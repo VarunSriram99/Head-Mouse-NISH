@@ -25,6 +25,18 @@ We started at first by placing the layout of the setup on paper. We decided to g
 4) Micro USB cable for connection with computer
 5) Straps
 6) Arduino IDE in computer for burning the code (only during development and not necessary after burning as device is plug and play)
+### Steps
+1) Gather components
+2) Make connections as follows
+![](images/sketch.jpg)
+SDA-A2
+SCL-A3
+VCC-5V
+GND-GND
+3) Use any method to strap the MPU6050 on the head.
+4) Burn the code from the .ino file into the arduino using the Arduino IDE tool
+5) Calibrate any changes if necessary.
+6) Plug the micro usb into the Arduino and the USB in to any USB port and enjoy the Head controlled mouse.
 ### Libraries required
 1) mouse.h (in-built library)
 2) wire.h (in-built library)
